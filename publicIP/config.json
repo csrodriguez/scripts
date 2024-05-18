@@ -1,0 +1,11 @@
+{
+    "config": [
+        {
+            "name": "Name",
+            "description": "Description",
+            "location": "Location",
+            "url_token": "url_token",
+            "file_name_data_saved": "file_name_data_saved"
+        }
+    ]
+}
